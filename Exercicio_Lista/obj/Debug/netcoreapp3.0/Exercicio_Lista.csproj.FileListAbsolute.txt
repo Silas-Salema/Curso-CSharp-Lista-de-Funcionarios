@@ -1,0 +1,11 @@
+C:\Users\Silas1\source\repos\Exercicio_Lista\Exercicio_Lista\bin\Debug\netcoreapp3.0\Exercicio_Lista.exe
+C:\Users\Silas1\source\repos\Exercicio_Lista\Exercicio_Lista\bin\Debug\netcoreapp3.0\Exercicio_Lista.deps.json
+C:\Users\Silas1\source\repos\Exercicio_Lista\Exercicio_Lista\bin\Debug\netcoreapp3.0\Exercicio_Lista.runtimeconfig.json
+C:\Users\Silas1\source\repos\Exercicio_Lista\Exercicio_Lista\bin\Debug\netcoreapp3.0\Exercicio_Lista.runtimeconfig.dev.json
+C:\Users\Silas1\source\repos\Exercicio_Lista\Exercicio_Lista\bin\Debug\netcoreapp3.0\Exercicio_Lista.dll
+C:\Users\Silas1\source\repos\Exercicio_Lista\Exercicio_Lista\bin\Debug\netcoreapp3.0\Exercicio_Lista.pdb
+C:\Users\Silas1\source\repos\Exercicio_Lista\Exercicio_Lista\obj\Debug\netcoreapp3.0\Exercicio_Lista.csprojAssemblyReference.cache
+C:\Users\Silas1\source\repos\Exercicio_Lista\Exercicio_Lista\obj\Debug\netcoreapp3.0\Exercicio_Lista.AssemblyInfoInputs.cache
+C:\Users\Silas1\source\repos\Exercicio_Lista\Exercicio_Lista\obj\Debug\netcoreapp3.0\Exercicio_Lista.AssemblyInfo.cs
+C:\Users\Silas1\source\repos\Exercicio_Lista\Exercicio_Lista\obj\Debug\netcoreapp3.0\Exercicio_Lista.dll
+C:\Users\Silas1\source\repos\Exercicio_Lista\Exercicio_Lista\obj\Debug\netcoreapp3.0\Exercicio_Lista.pdb
